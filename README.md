@@ -64,3 +64,4 @@ The app opens at **http://localhost:5173**
 ## Notes
 - CORS is pre-configured in `backend/config/settings.py` to allow `localhost:5173` to call the API.
 - The database is SQLite (`backend/db.sqlite3`), created automatically on first migrate — no separate DB server needed.
+- Link: file:///C:/Users/HP/Downloads/student-employee-record-manager%20(1).html
